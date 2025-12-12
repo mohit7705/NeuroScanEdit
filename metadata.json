@@ -1,0 +1,5 @@
+{
+  "name": "NeuroScan Edit",
+  "description": "A premium HealthTech image editing application powered by Gemini 2.5 Flash Image. Upload medical imagery or scans and use AI to highlight features, enhance clarity, or simulate treatments with a calm, futuristic aesthetic.",
+  "requestFramePermissions": []
+}
