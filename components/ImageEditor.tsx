@@ -261,6 +261,10 @@ const ImageEditor: React.FC = () => {
             <p className="text-xs uppercase tracking-widest text-slate-400">Encryption</p>
          </div>
       </div>
+
+      <div className="mt-8 text-right">
+        <p className="text-blue-400/80 text-sm font-medium">Built & Powered by Mohit Rao</p>
+      </div>
     </div>
   );
 };
